@@ -1,0 +1,113 @@
+Year,Keywords_list,Count
+2012,circulating tumor cell,1
+2013,biomarker,1
+2013,breast cancer,1
+2013,cancer,1
+2013,circulating tumor cell,1
+2014,biomarker,6
+2014,breast cancer,5
+2014,circulating tumor cell,10
+2014,circulating tumor dna,3
+2014,exosome,2
+2014,extracellular vesicle,2
+2014,lung cancer,3
+2015,biomarker,16
+2015,breast cancer,7
+2015,cancer,5
+2015,cell-free dna,9
+2015,circulating tumor cell,19
+2015,circulating tumor dna,8
+2015,ctdna,2
+2015,exosome,4
+2015,extracellular vesicle,4
+2015,lung cancer,7
+2016,biomarker,38
+2016,breast cancer,14
+2016,cancer,20
+2016,cell-free dna,13
+2016,circulating tumor cell,35
+2016,circulating tumor dna,20
+2016,ctdna,9
+2016,exosome,17
+2016,extracellular vesicle,7
+2016,lung cancer,11
+2017,biomarker,51
+2017,breast cancer,17
+2017,cancer,20
+2017,cell-free dna,24
+2017,circulating tumor cell,59
+2017,circulating tumor dna,26
+2017,ctdna,21
+2017,exosome,26
+2017,extracellular vesicle,17
+2017,lung cancer,28
+2018,biomarker,96
+2018,breast cancer,19
+2018,cancer,36
+2018,cell-free dna,29
+2018,circulating tumor cell,82
+2018,circulating tumor dna,62
+2018,ctdna,38
+2018,exosome,47
+2018,extracellular vesicle,22
+2018,lung cancer,30
+2019,biomarker,115
+2019,breast cancer,28
+2019,cancer,51
+2019,cell-free dna,66
+2019,circulating tumor cell,97
+2019,circulating tumor dna,88
+2019,ctdna,36
+2019,exosome,78
+2019,extracellular vesicle,58
+2019,lung cancer,44
+2020,biomarker,163
+2020,breast cancer,51
+2020,cancer,58
+2020,cell-free dna,62
+2020,circulating tumor cell,113
+2020,circulating tumor dna,112
+2020,ctdna,57
+2020,exosome,99
+2020,extracellular vesicle,88
+2020,lung cancer,44
+2021,biomarker,252
+2021,breast cancer,53
+2021,cancer,87
+2021,cell-free dna,91
+2021,circulating tumor cell,98
+2021,circulating tumor dna,125
+2021,ctdna,82
+2021,exosome,124
+2021,extracellular vesicle,120
+2021,lung cancer,52
+2022,biomarker,229
+2022,breast cancer,74
+2022,cancer,71
+2022,cell-free dna,98
+2022,circulating tumor cell,111
+2022,circulating tumor dna,111
+2022,ctdna,81
+2022,exosome,137
+2022,extracellular vesicle,124
+2022,lung cancer,47
+2023,biomarker,274
+2023,breast cancer,67
+2023,cancer,74
+2023,cell-free dna,87
+2023,circulating tumor cell,105
+2023,circulating tumor dna,96
+2023,ctdna,91
+2023,exosome,109
+2023,extracellular vesicle,113
+2023,lung cancer,59
+2024,biomarker,253
+2024,breast cancer,58
+2024,cancer,64
+2024,cell-free dna,71
+2024,circulating tumor cell,101
+2024,circulating tumor dna,112
+2024,ctdna,94
+2024,exosome,114
+2024,extracellular vesicle,127
+2024,lung cancer,53
