@@ -1,6 +1,6 @@
 # 🧬 Liquid Biopsy Research Trends — PubMed Analysis Project
 
-This project analyzes global trends in **liquid biopsy research** based on PubMed abstracts, using custom parsing, data analytics, and upcoming interactive visualizations in Tableau.
+This project analyzes global trends in **liquid biopsy research** based on PubMed abstracts, using custom parsing, data analytics, and interactive visualizations in Tableau.
 
 ## 🌐 Context (as of 2025)
 
@@ -16,7 +16,7 @@ This project explores:
 
 ## 📊 Project Overview
 
-We use the NCBI PubMed API to extract relevant article metadata, perform data cleaning and EDA, and export cleaned datasets for use in Tableau dashboards (to be added).
+I use the NCBI PubMed API to extract relevant article metadata, perform data cleaning and EDA, and export cleaned datasets for use in Tableau dashboards (to be added).
 
 ## 📁 Project Structure
 
